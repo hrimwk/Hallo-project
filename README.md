@@ -1,6 +1,6 @@
-<img src="https://velog.velcdn.com/images/hh1008/post/8bf080da-6a3c-4cbd-881e-f41fb3fbb0e3/image.png " width="200px"/>
+<img src="https://velog.velcdn.com/images/hh1008/post/8bf080da-6a3c-4cbd-881e-f41fb3fbb0e3/image.png" width="200px"/>
 
-### 이거사조팀의 **`Hola!`** Clone 코딩 프로젝트입니다.
+### 이거사조팀의 **`Hola!`** 를 모티브로한 프로젝트입니다.
 
 👉[Hola!](https://holaworld.io/)
 
